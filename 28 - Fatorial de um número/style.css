@@ -1,0 +1,42 @@
+.title {
+  font-size: 30px;
+  color: rgb(216, 16, 83);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header h1.title {
+  font-size: 50px;
+  font-weight: 700;
+  color: rgb(1, 78, 1);
+}
+p {
+  font-size: 30px;
+}
+label {
+  font-size: 30px;
+  
+}
+input#input {
+  margin: 20px;
+  padding: 10px;
+  font-size: 30px;
+  
+}
+
+.input-padrao {
+  display:inline;
+  
+}
+
+#button {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  display:block;
+  margin: 20px;
+  padding: 10px;;
+  color: rgb(1, 78, 1); 
+  border: 3px solid rgb(158, 8, 58);
+  border-radius: 10px;
+  background-color: rgb(253, 39, 111);
+  
+}
